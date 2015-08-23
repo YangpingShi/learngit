@@ -1,1 +1,1 @@
-i want delet this file by git.
+i want to remove this file.
